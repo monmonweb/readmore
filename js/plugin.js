@@ -1,1 +1,2 @@
 // jQuery Plugin
+$('article').readmore();
