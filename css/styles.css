@@ -1,9 +1,56 @@
 /********************
+YOUR FONTS
+*******************/
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One);
+
+@import url(https://fonts.googleapis.com/css?family=Cabin:400,700,700italic,600italic,600);
+
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+/********************
 YOUR STYLES
 *******************/
 .article {
 
 }
+
+p {
+ color: white;
+    background: ; 
+   margin: 50px;
+    padding: 2p;
+    font-family: 'Cabin', sans-serif;
+    letter-spacing: .09em;
+    font-size: 19px;
+}
+
+body {
+    background: #5191ad;
+}
+
+h1 {
+ color: white;
+    font-size: 10em;
+    text-shadow: gray 6px 4px;
+    font-family: 'Fjalla One', sans-serif;
+    letter-spacing: .05em;
+    margin: 50px;
+}
+
+h2 {
+     color: white;
+    font-family: 'PT Sans Narrow', sans-serif;
+    margin: 50px;
+    padding: 10p;
+    font-size: 3em;
+    letter-spacing: .08em;
+    font
+}
+
+#me {
+ margin: 50px;
+    width: 500px;
+}
+
 
 
 
